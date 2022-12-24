@@ -6,10 +6,10 @@
 #include <linux/uaccess.h>
 //#include <sys/ioctl.h>
 
-MODULE_LICENSE("No1");
-MODULE_AUTHOR("PIDOR");
-MODULE_DESCRIPTION("No3");
-MODULE_VERSION("No4");
+MODULE_LICENSE("NS");
+MODULE_AUTHOR("NS");
+MODULE_DESCRIPTION("NS");
+MODULE_VERSION("NS");
 
 #define FOO_NAME "foo_chrdev"
 dev_t Major;
